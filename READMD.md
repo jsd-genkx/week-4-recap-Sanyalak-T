@@ -63,4 +63,4 @@ Your Summary in Git commit message format:
 
 - "feat(sql): learned how to use SELECT * from tableNam"
 - "feat(html): structuring content with semantic elements like `<header>`, `<section>`, `<ul><li>` and `<p>`"
-- ?
+- "feat(css): about layouts, styles and animations"
